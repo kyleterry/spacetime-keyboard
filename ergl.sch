@@ -1,0 +1,1037 @@
+EESchema Schematic File Version 4
+EELAYER 29 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L keyboard_parts:KEYSW K1
+U 1 1 5D05A760
+P 4700 3050
+F 0 "K1" H 4700 3283 60  0000 C CNN
+F 1 "KEYSW" H 4700 2950 60  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H_DUAL_HOLE" H 4700 3050 60  0001 C CNN
+F 3 "" H 4700 3050 60  0000 C CNN
+	1    4700 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D1
+U 1 1 5D05AFBC
+P 4400 3350
+F 0 "D1" H 4272 3300 60  0000 R CNN
+F 1 "D" V 4550 3300 60  0001 C CNN
+F 2 "keyboard_parts:D_axial" H 4400 3350 60  0001 C CNN
+F 3 "" H 4400 3350 60  0000 C CNN
+	1    4400 3350
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	4400 3200 4400 3050
+$Comp
+L keyboard_parts:KEYSW K2
+U 1 1 5D05CB23
+P 5700 3050
+F 0 "K2" H 5700 3283 60  0000 C CNN
+F 1 "KEYSW" H 5700 2950 60  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H_DUAL_HOLE" H 5700 3050 60  0001 C CNN
+F 3 "" H 5700 3050 60  0000 C CNN
+	1    5700 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D2
+U 1 1 5D05CB2D
+P 5400 3350
+F 0 "D2" H 5272 3300 60  0000 R CNN
+F 1 "D" V 5550 3300 60  0001 C CNN
+F 2 "keyboard_parts:D_axial" H 5400 3350 60  0001 C CNN
+F 3 "" H 5400 3350 60  0000 C CNN
+	1    5400 3350
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	5400 3200 5400 3050
+$Comp
+L keyboard_parts:KEYSW K3
+U 1 1 5D0601FE
+P 6700 3050
+F 0 "K3" H 6700 3283 60  0000 C CNN
+F 1 "KEYSW" H 6700 2950 60  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H_DUAL_HOLE" H 6700 3050 60  0001 C CNN
+F 3 "" H 6700 3050 60  0000 C CNN
+	1    6700 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D3
+U 1 1 5D060208
+P 6400 3350
+F 0 "D3" H 6272 3300 60  0000 R CNN
+F 1 "D" V 6550 3300 60  0001 C CNN
+F 2 "keyboard_parts:D_axial" H 6400 3350 60  0001 C CNN
+F 3 "" H 6400 3350 60  0000 C CNN
+	1    6400 3350
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	6400 3200 6400 3050
+$Comp
+L keyboard_parts:KEYSW K4
+U 1 1 5D060213
+P 7700 3050
+F 0 "K4" H 7700 3283 60  0000 C CNN
+F 1 "KEYSW" H 7700 2950 60  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H_DUAL_HOLE" H 7700 3050 60  0001 C CNN
+F 3 "" H 7700 3050 60  0000 C CNN
+	1    7700 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D4
+U 1 1 5D06021D
+P 7400 3350
+F 0 "D4" H 7272 3300 60  0000 R CNN
+F 1 "D" V 7550 3300 60  0001 C CNN
+F 2 "keyboard_parts:D_axial" H 7400 3350 60  0001 C CNN
+F 3 "" H 7400 3350 60  0000 C CNN
+	1    7400 3350
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	7400 3200 7400 3050
+$Comp
+L keyboard_parts:KEYSW K5
+U 1 1 5D061FD0
+P 8700 3050
+F 0 "K5" H 8700 3283 60  0000 C CNN
+F 1 "KEYSW" H 8700 2950 60  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H_DUAL_HOLE" H 8700 3050 60  0001 C CNN
+F 3 "" H 8700 3050 60  0000 C CNN
+	1    8700 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D5
+U 1 1 5D061FDA
+P 8400 3350
+F 0 "D5" H 8272 3300 60  0000 R CNN
+F 1 "D" V 8550 3300 60  0001 C CNN
+F 2 "keyboard_parts:D_axial" H 8400 3350 60  0001 C CNN
+F 3 "" H 8400 3350 60  0000 C CNN
+	1    8400 3350
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	8400 3200 8400 3050
+$Comp
+L keyboard_parts:KEYSW K6
+U 1 1 5D061FE5
+P 9700 3050
+F 0 "K6" H 9700 3283 60  0000 C CNN
+F 1 "KEYSW" H 9700 2950 60  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H_DUAL_HOLE" H 9700 3050 60  0001 C CNN
+F 3 "" H 9700 3050 60  0000 C CNN
+	1    9700 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D6
+U 1 1 5D061FEF
+P 9400 3350
+F 0 "D6" H 9272 3300 60  0000 R CNN
+F 1 "D" V 9550 3300 60  0001 C CNN
+F 2 "keyboard_parts:D_axial" H 9400 3350 60  0001 C CNN
+F 3 "" H 9400 3350 60  0000 C CNN
+	1    9400 3350
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	9400 3200 9400 3050
+$Comp
+L keyboard_parts:KEYSW K7
+U 1 1 5D061FFA
+P 10700 3050
+F 0 "K7" H 10700 3283 60  0000 C CNN
+F 1 "KEYSW" H 10700 2950 60  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H_DUAL_HOLE" H 10700 3050 60  0001 C CNN
+F 3 "" H 10700 3050 60  0000 C CNN
+	1    10700 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D7
+U 1 1 5D062004
+P 10400 3350
+F 0 "D7" H 10272 3300 60  0000 R CNN
+F 1 "D" V 10550 3300 60  0001 C CNN
+F 2 "keyboard_parts:D_axial" H 10400 3350 60  0001 C CNN
+F 3 "" H 10400 3350 60  0000 C CNN
+	1    10400 3350
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	10400 3200 10400 3050
+$Comp
+L keyboard_parts:KEYSW K8
+U 1 1 5D0677D2
+P 4700 4050
+F 0 "K8" H 4700 4283 60  0000 C CNN
+F 1 "KEYSW" H 4700 3950 60  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H_DUAL_HOLE" H 4700 4050 60  0001 C CNN
+F 3 "" H 4700 4050 60  0000 C CNN
+	1    4700 4050
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D8
+U 1 1 5D0677DC
+P 4400 4350
+F 0 "D8" H 4272 4300 60  0000 R CNN
+F 1 "D" V 4550 4300 60  0001 C CNN
+F 2 "keyboard_parts:D_axial" H 4400 4350 60  0001 C CNN
+F 3 "" H 4400 4350 60  0000 C CNN
+	1    4400 4350
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	4400 4200 4400 4050
+$Comp
+L keyboard_parts:KEYSW K9
+U 1 1 5D0677E7
+P 5700 4050
+F 0 "K9" H 5700 4283 60  0000 C CNN
+F 1 "KEYSW" H 5700 3950 60  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H_DUAL_HOLE" H 5700 4050 60  0001 C CNN
+F 3 "" H 5700 4050 60  0000 C CNN
+	1    5700 4050
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D9
+U 1 1 5D0677F1
+P 5400 4350
+F 0 "D9" H 5272 4300 60  0000 R CNN
+F 1 "D" V 5550 4300 60  0001 C CNN
+F 2 "keyboard_parts:D_axial" H 5400 4350 60  0001 C CNN
+F 3 "" H 5400 4350 60  0000 C CNN
+	1    5400 4350
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	5400 4200 5400 4050
+$Comp
+L keyboard_parts:KEYSW K10
+U 1 1 5D0677FC
+P 6700 4050
+F 0 "K10" H 6700 4283 60  0000 C CNN
+F 1 "KEYSW" H 6700 3950 60  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H_DUAL_HOLE" H 6700 4050 60  0001 C CNN
+F 3 "" H 6700 4050 60  0000 C CNN
+	1    6700 4050
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D10
+U 1 1 5D067806
+P 6400 4350
+F 0 "D10" H 6272 4300 60  0000 R CNN
+F 1 "D" V 6550 4300 60  0001 C CNN
+F 2 "keyboard_parts:D_axial" H 6400 4350 60  0001 C CNN
+F 3 "" H 6400 4350 60  0000 C CNN
+	1    6400 4350
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	6400 4200 6400 4050
+$Comp
+L keyboard_parts:KEYSW K11
+U 1 1 5D067811
+P 7700 4050
+F 0 "K11" H 7700 4283 60  0000 C CNN
+F 1 "KEYSW" H 7700 3950 60  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H_DUAL_HOLE" H 7700 4050 60  0001 C CNN
+F 3 "" H 7700 4050 60  0000 C CNN
+	1    7700 4050
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D11
+U 1 1 5D06781B
+P 7400 4350
+F 0 "D11" H 7272 4300 60  0000 R CNN
+F 1 "D" V 7550 4300 60  0001 C CNN
+F 2 "keyboard_parts:D_axial" H 7400 4350 60  0001 C CNN
+F 3 "" H 7400 4350 60  0000 C CNN
+	1    7400 4350
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	7400 4200 7400 4050
+$Comp
+L keyboard_parts:KEYSW K12
+U 1 1 5D067826
+P 8700 4050
+F 0 "K12" H 8700 4283 60  0000 C CNN
+F 1 "KEYSW" H 8700 3950 60  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H_DUAL_HOLE" H 8700 4050 60  0001 C CNN
+F 3 "" H 8700 4050 60  0000 C CNN
+	1    8700 4050
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D12
+U 1 1 5D067830
+P 8400 4350
+F 0 "D12" H 8272 4300 60  0000 R CNN
+F 1 "D" V 8550 4300 60  0001 C CNN
+F 2 "keyboard_parts:D_axial" H 8400 4350 60  0001 C CNN
+F 3 "" H 8400 4350 60  0000 C CNN
+	1    8400 4350
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	8400 4200 8400 4050
+$Comp
+L keyboard_parts:KEYSW K13
+U 1 1 5D06783B
+P 9700 4050
+F 0 "K13" H 9700 4283 60  0000 C CNN
+F 1 "KEYSW" H 9700 3950 60  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H_DUAL_HOLE" H 9700 4050 60  0001 C CNN
+F 3 "" H 9700 4050 60  0000 C CNN
+	1    9700 4050
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D13
+U 1 1 5D067845
+P 9400 4350
+F 0 "D13" H 9272 4300 60  0000 R CNN
+F 1 "D" V 9550 4300 60  0001 C CNN
+F 2 "keyboard_parts:D_axial" H 9400 4350 60  0001 C CNN
+F 3 "" H 9400 4350 60  0000 C CNN
+	1    9400 4350
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	9400 4200 9400 4050
+$Comp
+L keyboard_parts:KEYSW K14
+U 1 1 5D067850
+P 10700 4050
+F 0 "K14" H 10700 4283 60  0000 C CNN
+F 1 "KEYSW" H 10700 3950 60  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H_DUAL_HOLE" H 10700 4050 60  0001 C CNN
+F 3 "" H 10700 4050 60  0000 C CNN
+	1    10700 4050
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D14
+U 1 1 5D06785A
+P 10400 4350
+F 0 "D14" H 10272 4300 60  0000 R CNN
+F 1 "D" V 10550 4300 60  0001 C CNN
+F 2 "keyboard_parts:D_axial" H 10400 4350 60  0001 C CNN
+F 3 "" H 10400 4350 60  0000 C CNN
+	1    10400 4350
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	10400 4200 10400 4050
+$Comp
+L keyboard_parts:KEYSW K15
+U 1 1 5D07A440
+P 4700 5050
+F 0 "K15" H 4700 5283 60  0000 C CNN
+F 1 "KEYSW" H 4700 4950 60  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H_DUAL_HOLE" H 4700 5050 60  0001 C CNN
+F 3 "" H 4700 5050 60  0000 C CNN
+	1    4700 5050
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D15
+U 1 1 5D07A44A
+P 4400 5350
+F 0 "D15" H 4272 5300 60  0000 R CNN
+F 1 "D" V 4550 5300 60  0001 C CNN
+F 2 "keyboard_parts:D_axial" H 4400 5350 60  0001 C CNN
+F 3 "" H 4400 5350 60  0000 C CNN
+	1    4400 5350
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	4400 5200 4400 5050
+$Comp
+L keyboard_parts:KEYSW K16
+U 1 1 5D07A455
+P 5700 5050
+F 0 "K16" H 5700 5283 60  0000 C CNN
+F 1 "KEYSW" H 5700 4950 60  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H_DUAL_HOLE" H 5700 5050 60  0001 C CNN
+F 3 "" H 5700 5050 60  0000 C CNN
+	1    5700 5050
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D16
+U 1 1 5D07A45F
+P 5400 5350
+F 0 "D16" H 5272 5300 60  0000 R CNN
+F 1 "D" V 5550 5300 60  0001 C CNN
+F 2 "keyboard_parts:D_axial" H 5400 5350 60  0001 C CNN
+F 3 "" H 5400 5350 60  0000 C CNN
+	1    5400 5350
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	5400 5200 5400 5050
+$Comp
+L keyboard_parts:KEYSW K17
+U 1 1 5D07A46A
+P 6700 5050
+F 0 "K17" H 6700 5283 60  0000 C CNN
+F 1 "KEYSW" H 6700 4950 60  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H_DUAL_HOLE" H 6700 5050 60  0001 C CNN
+F 3 "" H 6700 5050 60  0000 C CNN
+	1    6700 5050
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D17
+U 1 1 5D07A474
+P 6400 5350
+F 0 "D17" H 6272 5300 60  0000 R CNN
+F 1 "D" V 6550 5300 60  0001 C CNN
+F 2 "keyboard_parts:D_axial" H 6400 5350 60  0001 C CNN
+F 3 "" H 6400 5350 60  0000 C CNN
+	1    6400 5350
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	6400 5200 6400 5050
+$Comp
+L keyboard_parts:KEYSW K18
+U 1 1 5D07A47F
+P 7700 5050
+F 0 "K18" H 7700 5283 60  0000 C CNN
+F 1 "KEYSW" H 7700 4950 60  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H_DUAL_HOLE" H 7700 5050 60  0001 C CNN
+F 3 "" H 7700 5050 60  0000 C CNN
+	1    7700 5050
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D18
+U 1 1 5D07A489
+P 7400 5350
+F 0 "D18" H 7272 5300 60  0000 R CNN
+F 1 "D" V 7550 5300 60  0001 C CNN
+F 2 "keyboard_parts:D_axial" H 7400 5350 60  0001 C CNN
+F 3 "" H 7400 5350 60  0000 C CNN
+	1    7400 5350
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	7400 5200 7400 5050
+$Comp
+L keyboard_parts:KEYSW K19
+U 1 1 5D07A494
+P 8700 5050
+F 0 "K19" H 8700 5283 60  0000 C CNN
+F 1 "KEYSW" H 8700 4950 60  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H_DUAL_HOLE" H 8700 5050 60  0001 C CNN
+F 3 "" H 8700 5050 60  0000 C CNN
+	1    8700 5050
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D19
+U 1 1 5D07A49E
+P 8400 5350
+F 0 "D19" H 8272 5300 60  0000 R CNN
+F 1 "D" V 8550 5300 60  0001 C CNN
+F 2 "keyboard_parts:D_axial" H 8400 5350 60  0001 C CNN
+F 3 "" H 8400 5350 60  0000 C CNN
+	1    8400 5350
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	8400 5200 8400 5050
+$Comp
+L keyboard_parts:KEYSW K20
+U 1 1 5D07A4A9
+P 9700 5050
+F 0 "K20" H 9700 5283 60  0000 C CNN
+F 1 "KEYSW" H 9700 4950 60  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H_DUAL_HOLE" H 9700 5050 60  0001 C CNN
+F 3 "" H 9700 5050 60  0000 C CNN
+	1    9700 5050
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D20
+U 1 1 5D07A4B3
+P 9400 5350
+F 0 "D20" H 9272 5300 60  0000 R CNN
+F 1 "D" V 9550 5300 60  0001 C CNN
+F 2 "keyboard_parts:D_axial" H 9400 5350 60  0001 C CNN
+F 3 "" H 9400 5350 60  0000 C CNN
+	1    9400 5350
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	9400 5200 9400 5050
+$Comp
+L keyboard_parts:KEYSW K21
+U 1 1 5D07A4BE
+P 10700 5050
+F 0 "K21" H 10700 5283 60  0000 C CNN
+F 1 "KEYSW" H 10700 4950 60  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H_DUAL_HOLE" H 10700 5050 60  0001 C CNN
+F 3 "" H 10700 5050 60  0000 C CNN
+	1    10700 5050
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D21
+U 1 1 5D07A4C8
+P 10400 5350
+F 0 "D21" H 10272 5300 60  0000 R CNN
+F 1 "D" V 10550 5300 60  0001 C CNN
+F 2 "keyboard_parts:D_axial" H 10400 5350 60  0001 C CNN
+F 3 "" H 10400 5350 60  0000 C CNN
+	1    10400 5350
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	10400 5200 10400 5050
+$Comp
+L keyboard_parts:KEYSW K22
+U 1 1 5D088CF2
+P 4700 6050
+F 0 "K22" H 4700 6283 60  0000 C CNN
+F 1 "KEYSW" H 4700 5950 60  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H_DUAL_HOLE" H 4700 6050 60  0001 C CNN
+F 3 "" H 4700 6050 60  0000 C CNN
+	1    4700 6050
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D22
+U 1 1 5D088CFC
+P 4400 6350
+F 0 "D22" H 4272 6300 60  0000 R CNN
+F 1 "D" V 4550 6300 60  0001 C CNN
+F 2 "keyboard_parts:D_axial" H 4400 6350 60  0001 C CNN
+F 3 "" H 4400 6350 60  0000 C CNN
+	1    4400 6350
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	4400 6200 4400 6050
+$Comp
+L keyboard_parts:KEYSW K23
+U 1 1 5D088D07
+P 8700 6050
+F 0 "K23" H 8700 6283 60  0000 C CNN
+F 1 "KEYSW" H 8700 5950 60  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H_DUAL_HOLE" H 8700 6050 60  0001 C CNN
+F 3 "" H 8700 6050 60  0000 C CNN
+	1    8700 6050
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D23
+U 1 1 5D088D11
+P 8400 6350
+F 0 "D23" H 8272 6300 60  0000 R CNN
+F 1 "D" V 8550 6300 60  0001 C CNN
+F 2 "keyboard_parts:D_axial" H 8400 6350 60  0001 C CNN
+F 3 "" H 8400 6350 60  0000 C CNN
+	1    8400 6350
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	8400 6200 8400 6050
+$Comp
+L keyboard_parts:KEYSW K24
+U 1 1 5D088D1C
+P 9700 6050
+F 0 "K24" H 9700 6283 60  0000 C CNN
+F 1 "KEYSW" H 9700 5950 60  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_200V_DUAL_HOLES" H 9700 6050 60  0001 C CNN
+F 3 "" H 9700 6050 60  0000 C CNN
+	1    9700 6050
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D24
+U 1 1 5D088D26
+P 9400 6350
+F 0 "D24" H 9272 6300 60  0000 R CNN
+F 1 "D" V 9550 6300 60  0001 C CNN
+F 2 "keyboard_parts:D_axial" H 9400 6350 60  0001 C CNN
+F 3 "" H 9400 6350 60  0000 C CNN
+	1    9400 6350
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	9400 6200 9400 6050
+Wire Wire Line
+	4400 3400 5400 3400
+Wire Wire Line
+	5400 3400 6400 3400
+Connection ~ 5400 3400
+Wire Wire Line
+	7400 3400 6400 3400
+Connection ~ 6400 3400
+Wire Wire Line
+	8400 3400 7400 3400
+Connection ~ 7400 3400
+Wire Wire Line
+	9400 3400 8400 3400
+Connection ~ 8400 3400
+Wire Wire Line
+	10400 3400 9400 3400
+Connection ~ 9400 3400
+Wire Wire Line
+	4400 4400 5400 4400
+Wire Wire Line
+	6400 4400 5400 4400
+Connection ~ 5400 4400
+Wire Wire Line
+	7400 4400 6400 4400
+Connection ~ 6400 4400
+Wire Wire Line
+	8400 4400 7400 4400
+Connection ~ 7400 4400
+Wire Wire Line
+	9400 4400 8400 4400
+Connection ~ 8400 4400
+Wire Wire Line
+	10400 4400 9400 4400
+Connection ~ 9400 4400
+Wire Wire Line
+	4400 5400 5400 5400
+Wire Wire Line
+	6400 5400 5400 5400
+Connection ~ 5400 5400
+Wire Wire Line
+	7400 5400 6400 5400
+Connection ~ 6400 5400
+Wire Wire Line
+	8400 5400 7400 5400
+Connection ~ 7400 5400
+Wire Wire Line
+	9400 5400 8400 5400
+Connection ~ 8400 5400
+Wire Wire Line
+	9400 5400 10400 5400
+Connection ~ 9400 5400
+Wire Wire Line
+	9400 6400 8400 6400
+Wire Wire Line
+	5000 3050 5000 4050
+Wire Wire Line
+	5000 4050 5000 5050
+Connection ~ 5000 4050
+Wire Wire Line
+	6000 3050 6000 4050
+Wire Wire Line
+	6000 4050 6000 5050
+Connection ~ 6000 4050
+Wire Wire Line
+	7000 3050 7000 4050
+Wire Wire Line
+	7000 4050 7000 5050
+Connection ~ 7000 4050
+Wire Wire Line
+	8000 3050 8000 4050
+Wire Wire Line
+	8000 4050 8000 5050
+Connection ~ 8000 4050
+Wire Wire Line
+	9000 3050 9000 4050
+Wire Wire Line
+	9000 4050 9000 5050
+Connection ~ 9000 4050
+Wire Wire Line
+	10000 3050 10000 4050
+Wire Wire Line
+	10000 4050 10000 5050
+Connection ~ 10000 4050
+Wire Wire Line
+	9000 5050 9000 6050
+Connection ~ 10000 5050
+Wire Wire Line
+	11000 3050 11000 4050
+Wire Wire Line
+	11000 4050 11000 5050
+Connection ~ 11000 4050
+Wire Wire Line
+	10000 5050 10000 6050
+Text Label 4400 3400 2    50   ~ 0
+row0
+Text Label 4400 4400 2    50   ~ 0
+row1
+Text Label 4400 5400 2    50   ~ 0
+row2
+Text Label 4400 6400 2    50   ~ 0
+row3
+Text Label 5000 3050 0    50   ~ 0
+col0
+Text Label 6000 3050 0    50   ~ 0
+col1
+Text Label 7000 3050 0    50   ~ 0
+col2
+Text Label 8000 3050 0    50   ~ 0
+col3
+Text Label 9000 3050 0    50   ~ 0
+col4
+Text Label 10000 3050 0    50   ~ 0
+col5
+Text Label 11000 3050 0    50   ~ 0
+col6
+Text Label 1100 1850 2    50   ~ 0
+row0
+Text Label 1100 1950 2    50   ~ 0
+row1
+Text Label 1100 2050 2    50   ~ 0
+row2
+Text Label 1100 2150 2    50   ~ 0
+row3
+Text Label 2500 1650 0    50   ~ 0
+col0
+Text Label 2500 1750 0    50   ~ 0
+col1
+Text Label 2500 1850 0    50   ~ 0
+col2
+Text Label 2500 1950 0    50   ~ 0
+col3
+Text Label 2500 2050 0    50   ~ 0
+col4
+Text Label 2500 2150 0    50   ~ 0
+col5
+Text Label 2500 2250 0    50   ~ 0
+col6
+$Comp
+L SparkFun-Connectors:CONN_01 J8
+U 1 1 5D0ECC32
+P 3200 2350
+F 0 "J8" H 3158 2040 45  0000 C CNN
+F 1 "CONN_01" H 3158 2124 45  0000 C CNN
+F 2 "Connectors:1X01" H 3200 2550 20  0001 C CNN
+F 3 "" H 3200 2350 50  0001 C CNN
+F 4 "EXTRAIO" H 3158 2219 60  0000 C CNN "Field4"
+	1    3200 2350
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	2500 2350 3100 2350
+Wire Wire Line
+	2500 1550 2950 1550
+$Comp
+L power:VCC #PWR06
+U 1 1 5D1006AD
+P 2950 1550
+F 0 "#PWR06" H 2950 1400 50  0001 C CNN
+F 1 "VCC" V 2967 1678 50  0000 L CNN
+F 2 "" H 2950 1550 50  0001 C CNN
+F 3 "" H 2950 1550 50  0001 C CNN
+	1    2950 1550
+	0    1    1    0   
+$EndComp
+$Comp
+L promicro:ProMicro U1
+U 1 1 5D0DE199
+P 1800 2000
+F 0 "U1" H 1800 3037 60  0000 C CNN
+F 1 "ProMicro" H 1800 2931 60  0000 C CNN
+F 2 "promicro:ProMicro" H 1900 950 60  0001 C CNN
+F 3 "" H 1900 950 60  0000 C CNN
+	1    1800 2000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2500 1350 2950 1350
+$Comp
+L power:GND #PWR03
+U 1 1 5D107346
+P 2950 1350
+F 0 "#PWR03" H 2950 1100 50  0001 C CNN
+F 1 "GND" V 2955 1222 50  0000 R CNN
+F 2 "" H 2950 1350 50  0001 C CNN
+F 3 "" H 2950 1350 50  0001 C CNN
+	1    2950 1350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW1
+U 1 1 5D108004
+P 4000 1450
+F 0 "SW1" H 4000 1705 50  0000 C CNN
+F 1 "RESET BTN" H 4000 1614 50  0000 C CNN
+F 2 "digikey-footprints:Switch_Tactile_SMD_4.5x4.5mm_TL3315NF160Q" H 4000 1450 60  0001 C CNN
+F 3 "" H 4000 1450 60  0000 C CNN
+	1    4000 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR05
+U 1 1 5D1088C8
+P 4300 1450
+F 0 "#PWR05" H 4300 1200 50  0001 C CNN
+F 1 "GND" V 4305 1322 50  0000 R CNN
+F 2 "" H 4300 1450 50  0001 C CNN
+F 3 "" H 4300 1450 50  0001 C CNN
+	1    4300 1450
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2500 1450 3500 1450
+$Comp
+L SparkFun-Connectors:CONN_02 J1
+U 1 1 5D10E0ED
+P 3900 950
+F 0 "J1" H 3672 905 45  0000 R CNN
+F 1 "CONN_02" H 3672 989 45  0000 R CNN
+F 2 "Connectors:1X02" H 3900 1200 20  0001 C CNN
+F 3 "" H 3900 950 50  0001 C CNN
+F 4 "RESET HDR" H 3672 1084 60  0000 R CNN "Field4"
+	1    3900 950 
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:GND #PWR01
+U 1 1 5D113EFB
+P 3800 950
+F 0 "#PWR01" H 3800 700 50  0001 C CNN
+F 1 "GND" V 3805 822 50  0000 R CNN
+F 2 "" H 3800 950 50  0001 C CNN
+F 3 "" H 3800 950 50  0001 C CNN
+	1    3800 950 
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	3800 1050 3500 1050
+Wire Wire Line
+	3500 1050 3500 1450
+Connection ~ 3500 1450
+Wire Wire Line
+	3500 1450 3700 1450
+$Comp
+L SparkFun-Connectors:AUDIO_JACK_TRRSSMD_RA J3
+U 1 1 5D11A107
+P 5250 1200
+F 0 "J3" H 5233 1676 45  0000 C CNN
+F 1 "AUDIO_JACK_TRRSSMD_RA" H 5233 1592 45  0000 C CNN
+F 2 "Connectors:AUDIO_JACK_3.5MM_TRRS_SMD_RA" H 5250 1550 20  0001 C CNN
+F 3 "" H 5250 1200 50  0001 C CNN
+F 4 "CONN-10676" H 5233 1497 60  0000 C CNN "Field4"
+	1    5250 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VCC #PWR02
+U 1 1 5D11B896
+P 5450 1000
+F 0 "#PWR02" H 5450 850 50  0001 C CNN
+F 1 "VCC" V 5467 1128 50  0000 L CNN
+F 2 "" H 5450 1000 50  0001 C CNN
+F 3 "" H 5450 1000 50  0001 C CNN
+	1    5450 1000
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR04
+U 1 1 5D11C0CF
+P 5450 1400
+F 0 "#PWR04" H 5450 1150 50  0001 C CNN
+F 1 "GND" V 5455 1272 50  0000 R CNN
+F 2 "" H 5450 1400 50  0001 C CNN
+F 3 "" H 5450 1400 50  0001 C CNN
+	1    5450 1400
+	0    -1   -1   0   
+$EndComp
+Text Label 1100 1750 2    50   ~ 0
+serial0
+Text Label 5450 1300 0    50   ~ 0
+serial0
+$Comp
+L SparkFun-Connectors:CONN_01 J2
+U 1 1 5D11D83D
+P 6200 1100
+F 0 "J2" H 6158 790 45  0000 C CNN
+F 1 "CONN_01" H 6158 874 45  0000 C CNN
+F 2 "Connectors:1X01" H 6200 1300 20  0001 C CNN
+F 3 "" H 6200 1100 50  0001 C CNN
+F 4 "PASSTHROUGH" H 6158 969 60  0000 C CNN "Field4"
+	1    6200 1100
+	-1   0    0    1   
+$EndComp
+$Comp
+L SparkFun-Connectors:CONN_03 J4
+U 1 1 5D123653
+P 800 1450
+F 0 "J4" H 758 1960 45  0000 C CNN
+F 1 "CONN_03" H 758 1876 45  0000 C CNN
+F 2 "Connectors:1X03" H 800 1850 20  0001 C CNN
+F 3 "" H 800 1450 50  0001 C CNN
+F 4 "TXRX" H 758 1781 60  0000 C CNN "Field4"
+	1    800  1450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	900  1250 1100 1250
+Wire Wire Line
+	900  1350 1100 1350
+Wire Wire Line
+	900  1450 1000 1450
+Wire Wire Line
+	1100 1550 1000 1550
+Wire Wire Line
+	1000 1550 1000 1450
+Connection ~ 1000 1450
+Wire Wire Line
+	1000 1450 1100 1450
+NoConn ~ 1100 1650
+NoConn ~ 2500 1250
+$Comp
+L SparkFun-Connectors:CONN_02 J7
+U 1 1 5D130F4C
+P 800 2350
+F 0 "J7" H 758 2760 45  0000 C CNN
+F 1 "CONN_02" H 758 2676 45  0000 C CNN
+F 2 "Connectors:1X02" H 800 2600 20  0001 C CNN
+F 3 "" H 800 2350 50  0001 C CNN
+F 4 "EXTRAIO" H 758 2581 60  0000 C CNN "Field4"
+	1    800  2350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	900  2250 1100 2250
+Wire Wire Line
+	900  2350 1100 2350
+$Comp
+L SparkFun-Connectors:CONN_04 J6
+U 1 1 5D14A2A2
+P 4800 2250
+F 0 "J6" H 4758 2860 45  0000 C CNN
+F 1 "CONN_04" H 4758 2776 45  0000 C CNN
+F 2 "Connectors:1X04" H 4800 2750 20  0001 C CNN
+F 3 "" H 4800 2250 50  0001 C CNN
+F 4 "TO USB HDR" H 4758 2681 60  0000 C CNN "Field4"
+	1    4800 2250
+	1    0    0    -1  
+$EndComp
+Connection ~ 9000 5050
+$Comp
+L keyboard_parts:KEYSW K25
+U 1 1 5D184EA2
+P 10700 6050
+F 0 "K25" H 10700 6283 60  0000 C CNN
+F 1 "KEYSW" H 10700 5950 60  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_200V_DUAL_HOLES" H 10700 6050 60  0001 C CNN
+F 3 "" H 10700 6050 60  0000 C CNN
+	1    10700 6050
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D25
+U 1 1 5D184EAC
+P 10400 6350
+F 0 "D25" H 10272 6300 60  0000 R CNN
+F 1 "D" V 10550 6300 60  0001 C CNN
+F 2 "keyboard_parts:D_axial" H 10400 6350 60  0001 C CNN
+F 3 "" H 10400 6350 60  0000 C CNN
+	1    10400 6350
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	10400 6200 10400 6050
+Wire Wire Line
+	10400 6400 9400 6400
+Wire Wire Line
+	11000 5050 11000 6050
+Connection ~ 9400 6400
+Connection ~ 11000 5050
+Wire Wire Line
+	5000 6050 5000 5050
+Connection ~ 5000 5050
+Wire Wire Line
+	4400 6400 8400 6400
+Connection ~ 8400 6400
+Wire Wire Line
+	5450 1100 6100 1100
+$Comp
+L dk_USB-DVI-HDMI-Connectors:0548190519 J5
+U 1 1 5D1FCD14
+P 5450 2150
+F 0 "J5" H 5157 2071 60  0000 R CNN
+F 1 "0548190519" H 5157 2177 60  0000 R CNN
+F 2 "digikey-footprints:USB_Mini_B_Female_548190519" H 5650 2350 60  0001 L CNN
+F 3 "https://www.molex.com/pdm_docs/sd/548190519_sd.pdf" H 5650 2450 60  0001 L CNN
+F 4 "WM17115-ND" H 5650 2550 60  0001 L CNN "Digi-Key_PN"
+F 5 "0548190519" H 5650 2650 60  0001 L CNN "MPN"
+F 6 "Connectors, Interconnects" H 5650 2750 60  0001 L CNN "Category"
+F 7 "USB, DVI, HDMI Connectors" H 5650 2850 60  0001 L CNN "Family"
+F 8 "https://www.molex.com/pdm_docs/sd/548190519_sd.pdf" H 5650 2950 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/molex/0548190519/WM17115-ND/773802" H 5650 3050 60  0001 L CNN "DK_Detail_Page"
+F 10 "CONN RCPT USB2.0 MINI B 5P R/A" H 5650 3150 60  0001 L CNN "Description"
+F 11 "Molex" H 5650 3250 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 5650 3350 60  0001 L CNN "Status"
+	1    5450 2150
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	4900 2050 5150 2050
+Wire Wire Line
+	4900 1950 5000 1950
+Wire Wire Line
+	5000 1950 5000 2150
+Wire Wire Line
+	5000 2150 5150 2150
+Wire Wire Line
+	4900 2150 4950 2150
+Wire Wire Line
+	4950 2150 4950 2350
+Wire Wire Line
+	4950 2350 5150 2350
+Wire Wire Line
+	4900 2250 4900 2500
+$Comp
+L power:GND #PWR?
+U 1 1 5D21CD28
+P 4900 2500
+F 0 "#PWR?" H 4900 2250 50  0001 C CNN
+F 1 "GND" H 4905 2327 50  0000 C CNN
+F 2 "" H 4900 2500 50  0001 C CNN
+F 3 "" H 4900 2500 50  0001 C CNN
+	1    4900 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 5D21D588
+P 5150 1950
+F 0 "#PWR?" H 5150 1700 50  0001 C CNN
+F 1 "GND" V 5155 1822 50  0000 R CNN
+F 2 "" H 5150 1950 50  0001 C CNN
+F 3 "" H 5150 1950 50  0001 C CNN
+	1    5150 1950
+	0    1    1    0   
+$EndComp
+NoConn ~ 5150 2250
+$EndSCHEMATC
