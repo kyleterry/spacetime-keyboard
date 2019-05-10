@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:ergl-cache
 EELAYER 29 0
 EELAYER END
 $Descr A4 11693 8268
@@ -30,7 +31,7 @@ U 1 1 5D05AFBC
 P 4400 3350
 F 0 "D1" H 4272 3300 60  0000 R CNN
 F 1 "D" V 4550 3300 60  0001 C CNN
-F 2 "keyboard_parts:D_axial" H 4400 3350 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 4400 3350 60  0001 C CNN
 F 3 "" H 4400 3350 60  0000 C CNN
 	1    4400 3350
 	-1   0    0    1   
@@ -54,7 +55,7 @@ U 1 1 5D05CB2D
 P 5400 3350
 F 0 "D2" H 5272 3300 60  0000 R CNN
 F 1 "D" V 5550 3300 60  0001 C CNN
-F 2 "keyboard_parts:D_axial" H 5400 3350 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 5400 3350 60  0001 C CNN
 F 3 "" H 5400 3350 60  0000 C CNN
 	1    5400 3350
 	-1   0    0    1   
@@ -78,7 +79,7 @@ U 1 1 5D060208
 P 6400 3350
 F 0 "D3" H 6272 3300 60  0000 R CNN
 F 1 "D" V 6550 3300 60  0001 C CNN
-F 2 "keyboard_parts:D_axial" H 6400 3350 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 6400 3350 60  0001 C CNN
 F 3 "" H 6400 3350 60  0000 C CNN
 	1    6400 3350
 	-1   0    0    1   
@@ -102,7 +103,7 @@ U 1 1 5D06021D
 P 7400 3350
 F 0 "D4" H 7272 3300 60  0000 R CNN
 F 1 "D" V 7550 3300 60  0001 C CNN
-F 2 "keyboard_parts:D_axial" H 7400 3350 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 7400 3350 60  0001 C CNN
 F 3 "" H 7400 3350 60  0000 C CNN
 	1    7400 3350
 	-1   0    0    1   
@@ -126,7 +127,7 @@ U 1 1 5D061FDA
 P 8400 3350
 F 0 "D5" H 8272 3300 60  0000 R CNN
 F 1 "D" V 8550 3300 60  0001 C CNN
-F 2 "keyboard_parts:D_axial" H 8400 3350 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 8400 3350 60  0001 C CNN
 F 3 "" H 8400 3350 60  0000 C CNN
 	1    8400 3350
 	-1   0    0    1   
@@ -150,7 +151,7 @@ U 1 1 5D061FEF
 P 9400 3350
 F 0 "D6" H 9272 3300 60  0000 R CNN
 F 1 "D" V 9550 3300 60  0001 C CNN
-F 2 "keyboard_parts:D_axial" H 9400 3350 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 9400 3350 60  0001 C CNN
 F 3 "" H 9400 3350 60  0000 C CNN
 	1    9400 3350
 	-1   0    0    1   
@@ -174,7 +175,7 @@ U 1 1 5D062004
 P 10400 3350
 F 0 "D7" H 10272 3300 60  0000 R CNN
 F 1 "D" V 10550 3300 60  0001 C CNN
-F 2 "keyboard_parts:D_axial" H 10400 3350 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 10400 3350 60  0001 C CNN
 F 3 "" H 10400 3350 60  0000 C CNN
 	1    10400 3350
 	-1   0    0    1   
@@ -198,7 +199,7 @@ U 1 1 5D0677DC
 P 4400 4350
 F 0 "D8" H 4272 4300 60  0000 R CNN
 F 1 "D" V 4550 4300 60  0001 C CNN
-F 2 "keyboard_parts:D_axial" H 4400 4350 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 4400 4350 60  0001 C CNN
 F 3 "" H 4400 4350 60  0000 C CNN
 	1    4400 4350
 	-1   0    0    1   
@@ -222,7 +223,7 @@ U 1 1 5D0677F1
 P 5400 4350
 F 0 "D9" H 5272 4300 60  0000 R CNN
 F 1 "D" V 5550 4300 60  0001 C CNN
-F 2 "keyboard_parts:D_axial" H 5400 4350 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 5400 4350 60  0001 C CNN
 F 3 "" H 5400 4350 60  0000 C CNN
 	1    5400 4350
 	-1   0    0    1   
@@ -246,7 +247,7 @@ U 1 1 5D067806
 P 6400 4350
 F 0 "D10" H 6272 4300 60  0000 R CNN
 F 1 "D" V 6550 4300 60  0001 C CNN
-F 2 "keyboard_parts:D_axial" H 6400 4350 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 6400 4350 60  0001 C CNN
 F 3 "" H 6400 4350 60  0000 C CNN
 	1    6400 4350
 	-1   0    0    1   
@@ -270,7 +271,7 @@ U 1 1 5D06781B
 P 7400 4350
 F 0 "D11" H 7272 4300 60  0000 R CNN
 F 1 "D" V 7550 4300 60  0001 C CNN
-F 2 "keyboard_parts:D_axial" H 7400 4350 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 7400 4350 60  0001 C CNN
 F 3 "" H 7400 4350 60  0000 C CNN
 	1    7400 4350
 	-1   0    0    1   
@@ -294,7 +295,7 @@ U 1 1 5D067830
 P 8400 4350
 F 0 "D12" H 8272 4300 60  0000 R CNN
 F 1 "D" V 8550 4300 60  0001 C CNN
-F 2 "keyboard_parts:D_axial" H 8400 4350 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 8400 4350 60  0001 C CNN
 F 3 "" H 8400 4350 60  0000 C CNN
 	1    8400 4350
 	-1   0    0    1   
@@ -318,7 +319,7 @@ U 1 1 5D067845
 P 9400 4350
 F 0 "D13" H 9272 4300 60  0000 R CNN
 F 1 "D" V 9550 4300 60  0001 C CNN
-F 2 "keyboard_parts:D_axial" H 9400 4350 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 9400 4350 60  0001 C CNN
 F 3 "" H 9400 4350 60  0000 C CNN
 	1    9400 4350
 	-1   0    0    1   
@@ -342,7 +343,7 @@ U 1 1 5D06785A
 P 10400 4350
 F 0 "D14" H 10272 4300 60  0000 R CNN
 F 1 "D" V 10550 4300 60  0001 C CNN
-F 2 "keyboard_parts:D_axial" H 10400 4350 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 10400 4350 60  0001 C CNN
 F 3 "" H 10400 4350 60  0000 C CNN
 	1    10400 4350
 	-1   0    0    1   
@@ -366,7 +367,7 @@ U 1 1 5D07A44A
 P 4400 5350
 F 0 "D15" H 4272 5300 60  0000 R CNN
 F 1 "D" V 4550 5300 60  0001 C CNN
-F 2 "keyboard_parts:D_axial" H 4400 5350 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 4400 5350 60  0001 C CNN
 F 3 "" H 4400 5350 60  0000 C CNN
 	1    4400 5350
 	-1   0    0    1   
@@ -390,7 +391,7 @@ U 1 1 5D07A45F
 P 5400 5350
 F 0 "D16" H 5272 5300 60  0000 R CNN
 F 1 "D" V 5550 5300 60  0001 C CNN
-F 2 "keyboard_parts:D_axial" H 5400 5350 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 5400 5350 60  0001 C CNN
 F 3 "" H 5400 5350 60  0000 C CNN
 	1    5400 5350
 	-1   0    0    1   
@@ -414,7 +415,7 @@ U 1 1 5D07A474
 P 6400 5350
 F 0 "D17" H 6272 5300 60  0000 R CNN
 F 1 "D" V 6550 5300 60  0001 C CNN
-F 2 "keyboard_parts:D_axial" H 6400 5350 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 6400 5350 60  0001 C CNN
 F 3 "" H 6400 5350 60  0000 C CNN
 	1    6400 5350
 	-1   0    0    1   
@@ -438,7 +439,7 @@ U 1 1 5D07A489
 P 7400 5350
 F 0 "D18" H 7272 5300 60  0000 R CNN
 F 1 "D" V 7550 5300 60  0001 C CNN
-F 2 "keyboard_parts:D_axial" H 7400 5350 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 7400 5350 60  0001 C CNN
 F 3 "" H 7400 5350 60  0000 C CNN
 	1    7400 5350
 	-1   0    0    1   
@@ -462,7 +463,7 @@ U 1 1 5D07A49E
 P 8400 5350
 F 0 "D19" H 8272 5300 60  0000 R CNN
 F 1 "D" V 8550 5300 60  0001 C CNN
-F 2 "keyboard_parts:D_axial" H 8400 5350 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 8400 5350 60  0001 C CNN
 F 3 "" H 8400 5350 60  0000 C CNN
 	1    8400 5350
 	-1   0    0    1   
@@ -486,7 +487,7 @@ U 1 1 5D07A4B3
 P 9400 5350
 F 0 "D20" H 9272 5300 60  0000 R CNN
 F 1 "D" V 9550 5300 60  0001 C CNN
-F 2 "keyboard_parts:D_axial" H 9400 5350 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 9400 5350 60  0001 C CNN
 F 3 "" H 9400 5350 60  0000 C CNN
 	1    9400 5350
 	-1   0    0    1   
@@ -510,7 +511,7 @@ U 1 1 5D07A4C8
 P 10400 5350
 F 0 "D21" H 10272 5300 60  0000 R CNN
 F 1 "D" V 10550 5300 60  0001 C CNN
-F 2 "keyboard_parts:D_axial" H 10400 5350 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 10400 5350 60  0001 C CNN
 F 3 "" H 10400 5350 60  0000 C CNN
 	1    10400 5350
 	-1   0    0    1   
@@ -534,7 +535,7 @@ U 1 1 5D088CFC
 P 4400 6350
 F 0 "D22" H 4272 6300 60  0000 R CNN
 F 1 "D" V 4550 6300 60  0001 C CNN
-F 2 "keyboard_parts:D_axial" H 4400 6350 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 4400 6350 60  0001 C CNN
 F 3 "" H 4400 6350 60  0000 C CNN
 	1    4400 6350
 	-1   0    0    1   
@@ -558,7 +559,7 @@ U 1 1 5D088D11
 P 8400 6350
 F 0 "D23" H 8272 6300 60  0000 R CNN
 F 1 "D" V 8550 6300 60  0001 C CNN
-F 2 "keyboard_parts:D_axial" H 8400 6350 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 8400 6350 60  0001 C CNN
 F 3 "" H 8400 6350 60  0000 C CNN
 	1    8400 6350
 	-1   0    0    1   
@@ -582,7 +583,7 @@ U 1 1 5D088D26
 P 9400 6350
 F 0 "D24" H 9272 6300 60  0000 R CNN
 F 1 "D" V 9550 6300 60  0001 C CNN
-F 2 "keyboard_parts:D_axial" H 9400 6350 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 9400 6350 60  0001 C CNN
 F 3 "" H 9400 6350 60  0000 C CNN
 	1    9400 6350
 	-1   0    0    1   
@@ -729,17 +730,15 @@ col6
 $Comp
 L SparkFun-Connectors:CONN_01 J8
 U 1 1 5D0ECC32
-P 3200 2350
-F 0 "J8" H 3158 2040 45  0000 C CNN
-F 1 "CONN_01" H 3158 2124 45  0000 C CNN
-F 2 "Connectors:1X01" H 3200 2550 20  0001 C CNN
-F 3 "" H 3200 2350 50  0001 C CNN
-F 4 "EXTRAIO" H 3158 2219 60  0000 C CNN "Field4"
-	1    3200 2350
+P 4400 2350
+F 0 "J8" H 4358 2040 45  0000 C CNN
+F 1 "CONN_01" H 4358 2124 45  0000 C CNN
+F 2 "Connectors:1X01" H 4400 2550 20  0001 C CNN
+F 3 "" H 4400 2350 50  0001 C CNN
+F 4 "EXTRAIO" H 4358 2219 60  0000 C CNN "Field4"
+	1    4400 2350
 	-1   0    0    1   
 $EndComp
-Wire Wire Line
-	2500 2350 3100 2350
 Wire Wire Line
 	2500 1550 2950 1550
 $Comp
@@ -783,7 +782,7 @@ U 1 1 5D108004
 P 4000 1450
 F 0 "SW1" H 4000 1705 50  0000 C CNN
 F 1 "RESET BTN" H 4000 1614 50  0000 C CNN
-F 2 "digikey-footprints:Switch_Tactile_SMD_4.5x4.5mm_TL3315NF160Q" H 4000 1450 60  0001 C CNN
+F 2 "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KSC6xxJ" H 4000 1450 60  0001 C CNN
 F 3 "" H 4000 1450 60  0000 C CNN
 	1    4000 1450
 	1    0    0    -1  
@@ -799,8 +798,6 @@ F 3 "" H 4300 1450 50  0001 C CNN
 	1    4300 1450
 	0    -1   -1   0   
 $EndComp
-Wire Wire Line
-	2500 1450 3500 1450
 $Comp
 L SparkFun-Connectors:CONN_02 J1
 U 1 1 5D10E0ED
@@ -824,13 +821,6 @@ F 3 "" H 3800 950 50  0001 C CNN
 	1    3800 950 
 	0    1    1    0   
 $EndComp
-Wire Wire Line
-	3800 1050 3500 1050
-Wire Wire Line
-	3500 1050 3500 1450
-Connection ~ 3500 1450
-Wire Wire Line
-	3500 1450 3700 1450
 $Comp
 L SparkFun-Connectors:AUDIO_JACK_TRRSSMD_RA J3
 U 1 1 5D11A107
@@ -872,38 +862,31 @@ serial0
 $Comp
 L SparkFun-Connectors:CONN_01 J2
 U 1 1 5D11D83D
-P 6200 1100
-F 0 "J2" H 6158 790 45  0000 C CNN
-F 1 "CONN_01" H 6158 874 45  0000 C CNN
-F 2 "Connectors:1X01" H 6200 1300 20  0001 C CNN
-F 3 "" H 6200 1100 50  0001 C CNN
-F 4 "PASSTHROUGH" H 6158 969 60  0000 C CNN "Field4"
-	1    6200 1100
+P 7400 1400
+F 0 "J2" H 7358 1090 45  0000 C CNN
+F 1 "CONN_01" H 7358 1174 45  0000 C CNN
+F 2 "Connectors:1X01" H 7400 1600 20  0001 C CNN
+F 3 "" H 7400 1400 50  0001 C CNN
+F 4 "PASSTHROUGH" H 7358 1269 60  0000 C CNN "Field4"
+	1    7400 1400
 	-1   0    0    1   
 $EndComp
 $Comp
 L SparkFun-Connectors:CONN_03 J4
 U 1 1 5D123653
-P 800 1450
-F 0 "J4" H 758 1960 45  0000 C CNN
-F 1 "CONN_03" H 758 1876 45  0000 C CNN
-F 2 "Connectors:1X03" H 800 1850 20  0001 C CNN
-F 3 "" H 800 1450 50  0001 C CNN
-F 4 "TXRX" H 758 1781 60  0000 C CNN "Field4"
-	1    800  1450
+P 700 1000
+F 0 "J4" H 658 1510 45  0000 C CNN
+F 1 "CONN_03" H 658 1426 45  0000 C CNN
+F 2 "Connectors:1X03" H 700 1400 20  0001 C CNN
+F 3 "" H 700 1000 50  0001 C CNN
+F 4 "TXRX" H 658 1331 60  0000 C CNN "Field4"
+	1    700  1000
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	900  1250 1100 1250
-Wire Wire Line
-	900  1350 1100 1350
-Wire Wire Line
-	900  1450 1000 1450
 Wire Wire Line
 	1100 1550 1000 1550
 Wire Wire Line
 	1000 1550 1000 1450
-Connection ~ 1000 1450
 Wire Wire Line
 	1000 1450 1100 1450
 NoConn ~ 1100 1650
@@ -924,18 +907,6 @@ Wire Wire Line
 	900  2250 1100 2250
 Wire Wire Line
 	900  2350 1100 2350
-$Comp
-L SparkFun-Connectors:CONN_04 J6
-U 1 1 5D14A2A2
-P 4800 2250
-F 0 "J6" H 4758 2860 45  0000 C CNN
-F 1 "CONN_04" H 4758 2776 45  0000 C CNN
-F 2 "Connectors:1X04" H 4800 2750 20  0001 C CNN
-F 3 "" H 4800 2250 50  0001 C CNN
-F 4 "TO USB HDR" H 4758 2681 60  0000 C CNN "Field4"
-	1    4800 2250
-	1    0    0    -1  
-$EndComp
 Connection ~ 9000 5050
 $Comp
 L keyboard_parts:KEYSW K25
@@ -954,7 +925,7 @@ U 1 1 5D184EAC
 P 10400 6350
 F 0 "D25" H 10272 6300 60  0000 R CNN
 F 1 "D" V 10550 6300 60  0001 C CNN
-F 2 "keyboard_parts:D_axial" H 10400 6350 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 10400 6350 60  0001 C CNN
 F 3 "" H 10400 6350 60  0000 C CNN
 	1    10400 6350
 	-1   0    0    1   
@@ -973,65 +944,45 @@ Connection ~ 5000 5050
 Wire Wire Line
 	4400 6400 8400 6400
 Connection ~ 8400 6400
-Wire Wire Line
-	5450 1100 6100 1100
+Text Label 5450 1100 0    50   ~ 0
+pdt1
+Text Label 7300 1400 2    50   ~ 0
+pdt1
+Text Label 2500 1450 0    50   ~ 0
+rst
+Text Label 3700 1450 2    50   ~ 0
+rst
+Text Label 3800 1050 2    50   ~ 0
+rst
+Text Label 2500 2350 0    50   ~ 0
+xd1
+Text Label 4300 2350 2    50   ~ 0
+xd1
 $Comp
-L dk_USB-DVI-HDMI-Connectors:0548190519 J5
-U 1 1 5D1FCD14
-P 5450 2150
-F 0 "J5" H 5157 2071 60  0000 R CNN
-F 1 "0548190519" H 5157 2177 60  0000 R CNN
-F 2 "digikey-footprints:USB_Mini_B_Female_548190519" H 5650 2350 60  0001 L CNN
-F 3 "https://www.molex.com/pdm_docs/sd/548190519_sd.pdf" H 5650 2450 60  0001 L CNN
-F 4 "WM17115-ND" H 5650 2550 60  0001 L CNN "Digi-Key_PN"
-F 5 "0548190519" H 5650 2650 60  0001 L CNN "MPN"
-F 6 "Connectors, Interconnects" H 5650 2750 60  0001 L CNN "Category"
-F 7 "USB, DVI, HDMI Connectors" H 5650 2850 60  0001 L CNN "Family"
-F 8 "https://www.molex.com/pdm_docs/sd/548190519_sd.pdf" H 5650 2950 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/molex/0548190519/WM17115-ND/773802" H 5650 3050 60  0001 L CNN "DK_Detail_Page"
-F 10 "CONN RCPT USB2.0 MINI B 5P R/A" H 5650 3150 60  0001 L CNN "Description"
-F 11 "Molex" H 5650 3250 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 5650 3350 60  0001 L CNN "Status"
-	1    5450 2150
-	-1   0    0    1   
-$EndComp
-Wire Wire Line
-	4900 2050 5150 2050
-Wire Wire Line
-	4900 1950 5000 1950
-Wire Wire Line
-	5000 1950 5000 2150
-Wire Wire Line
-	5000 2150 5150 2150
-Wire Wire Line
-	4900 2150 4950 2150
-Wire Wire Line
-	4950 2150 4950 2350
-Wire Wire Line
-	4950 2350 5150 2350
-Wire Wire Line
-	4900 2250 4900 2500
-$Comp
-L power:GND #PWR?
-U 1 1 5D21CD28
-P 4900 2500
-F 0 "#PWR?" H 4900 2250 50  0001 C CNN
-F 1 "GND" H 4905 2327 50  0000 C CNN
-F 2 "" H 4900 2500 50  0001 C CNN
-F 3 "" H 4900 2500 50  0001 C CNN
-	1    4900 2500
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GND #PWR?
-U 1 1 5D21D588
-P 5150 1950
-F 0 "#PWR?" H 5150 1700 50  0001 C CNN
-F 1 "GND" V 5155 1822 50  0000 R CNN
-F 2 "" H 5150 1950 50  0001 C CNN
-F 3 "" H 5150 1950 50  0001 C CNN
-	1    5150 1950
+L power:GND #PWR0101
+U 1 1 5CD72925
+P 1000 1450
+F 0 "#PWR0101" H 1000 1200 50  0001 C CNN
+F 1 "GND" V 1005 1322 50  0000 R CNN
+F 2 "" H 1000 1450 50  0001 C CNN
+F 3 "" H 1000 1450 50  0001 C CNN
+	1    1000 1450
 	0    1    1    0   
 $EndComp
-NoConn ~ 5150 2250
+Connection ~ 1000 1450
+$Comp
+L power:GND #PWR0102
+U 1 1 5CD7977A
+P 800 1000
+F 0 "#PWR0102" H 800 750 50  0001 C CNN
+F 1 "GND" V 805 872 50  0000 R CNN
+F 2 "" H 800 1000 50  0001 C CNN
+F 3 "" H 800 1000 50  0001 C CNN
+	1    800  1000
+	0    -1   -1   0   
+$EndComp
+Text Label 1100 1250 2    50   ~ 0
+tx
+Text Label 1100 1350 2    50   ~ 0
+rx
 $EndSCHEMATC
