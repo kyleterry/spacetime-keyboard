@@ -572,7 +572,7 @@ U 1 1 5D088D1C
 P 8700 3850
 F 0 "K24" H 8700 4083 60  0000 C CNN
 F 1 "KEYSW" H 8700 3750 60  0001 C CNN
-F 2 "Keebio-Parts:Hybrid_PCB_125H_Dual_hole-nosilk" H 8700 3850 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_Plate_200H-dual-nosilk" H 8700 3850 60  0001 C CNN
 F 3 "" H 8700 3850 60  0000 C CNN
 	1    8700 3850
 	1    0    0    -1  
@@ -847,7 +847,7 @@ U 1 1 5D184EA2
 P 9700 3850
 F 0 "K25" H 9700 4083 60  0000 C CNN
 F 1 "KEYSW" H 9700 3750 60  0001 C CNN
-F 2 "Keebio-Parts:Hybrid_PCB_200H-dual-nosilk" H 9700 3850 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_Plate_200H-dual-nosilk" H 9700 3850 60  0001 C CNN
 F 3 "" H 9700 3850 60  0000 C CNN
 	1    9700 3850
 	1    0    0    -1  

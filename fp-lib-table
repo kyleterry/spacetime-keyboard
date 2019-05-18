@@ -26,4 +26,6 @@
   (lib (name Silicon-Custom)(type KiCad)(uri ${KIUSERLIBS}/SparkFun-KiCad-Libraries/Footprints/Silicon-Custom.pretty)(options "")(descr ""))
   (lib (name Silicon-Standard)(type KiCad)(uri ${KIUSERLIBS}/SparkFun-KiCad-Libraries/Footprints/Silicon-Standard.pretty)(options "")(descr ""))
   (lib (name Switches)(type KiCad)(uri ${KIUSERLIBS}/SparkFun-KiCad-Libraries/Footprints/Switches.pretty)(options "")(descr ""))
+  (lib (name keyboard-parts)(type KiCad)(uri /home/kyle/code/kyleterry/keyboards/footprints/keyboard-parts.pretty)(options "")(descr ""))
+  (lib (name spacetime-keyboard)(type KiCad)(uri ${KIPRJMOD}/spacetime-keyboard.pretty)(options "")(descr ""))
 )
